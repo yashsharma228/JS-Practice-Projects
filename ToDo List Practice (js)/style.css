@@ -1,0 +1,10 @@
+#id {
+  list-style: none;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
+.done {
+  text-decoration: line-through;
+}

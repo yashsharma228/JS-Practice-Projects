@@ -14,4 +14,4 @@ index.html : The main HTML file that sets up the structure of the webpage.
 style.css : The CSS file that styles the webpage.
 index.js : The JavaScript file that handles the keypress events and updates the log and state divs.
 
-Live Demo : https://yashsharma228.github.io/KeyLogger-Website/
+Live Demo : https://keyloggerprojectjs.netlify.app/

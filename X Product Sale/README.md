@@ -1,4 +1,4 @@
-Live Demo : https://yashsharma228.github.io/Shoe-Sale-Landing-Page/
+Live Demo : https://uishoeproduct.netlify.app/
 
 This is a practice project to enhance HTML and CSS skills. 
 

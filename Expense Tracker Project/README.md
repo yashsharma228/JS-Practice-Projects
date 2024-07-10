@@ -6,6 +6,6 @@ In Expense Tracker we enter details about Description, Category and Amount as ma
 
 And in Expense Summary, whatever details we have submitted in Expense Tracker are shown here.
 
-Live Demo : https://yashsharma228.github.io/Simple-Expense-Tracker-Project/
+Live Demo : https://jsexpensetracker.netlify.app/
 
 ![Screenshot 2024-06-25 220005](https://github.com/yashsharma228/JS-Practice-Projects/assets/141614148/4dccb2d2-dcd2-45a3-b85a-e6aaa917c1b8)
